@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "0.0.0.3",
+  "option_operagx_next_version": "0.0.0.4",
+  "option_operagx_game_name": "",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "f110eb53-0f2e-4ea5-ac10-6e7f1f52a574",
+  "option_operagx_team_name": "BananaBoiGamez studio",
+  "option_operagx_team_id": "c0c385fe-7aae-4219-943f-78205a68e096",
+  "option_operagx_editUrl": "https://create.gx.games/game/f110eb53-0f2e-4ea5-ac10-6e7f1f52a574/edit",
+  "option_operagx_internalShareUrl": "https://gx.games/games/8lgzua/jerry-quest-recreation/tracks/934d0026-98d8-4331-bda8-288037c856f0/",
+  "option_operagx_publicShareUrl": "https://gx.games/games/8lgzua/jerry-quest-recreation/",
+}

@@ -1,0 +1,1 @@
+obj_persistent.unlock[1] = 1;
